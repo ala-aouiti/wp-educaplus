@@ -1,0 +1,88 @@
+
+---Downloaded files---
+The import files for: Classic LMS (Tutor) were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://hobb.tn/test-domain
+Data file = /home3/gryjtyhu/public_html/test-domain/wp-content/uploads/2023/08/demo-content-import-file_2023-08-26__15-15-18.xml
+Widget file = /home3/gryjtyhu/public_html/test-domain/wp-content/uploads/2023/08/demo-widgets-import-file_2023-08-26__15-15-18.json
+Customizer file = /home3/gryjtyhu/public_html/test-domain/wp-content/uploads/2023/08/demo-customizer-import-file_2023-08-26__15-15-18.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+(Edubin) Blog Sidebar : 
+
+Rechercher - No Title - Imported
+Edubin Recent Post - Recent Posts - Imported
+Catégories - Categories - Imported
+Nuage d’étiquettes - Popular Tags - Imported
+
+(Edubin) Footer 1 : 
+
+Image - No Title - Imported
+Texte - No Title - Imported
+Texte - No Title - Imported
+
+(Edubin) Footer 2 : 
+
+Menu de navigation - Feature Links - Imported
+
+(Edubin) Footer 3 : 
+
+Menu de navigation - Support - Imported
+
+(Edubin) Footer 4 : 
+
+Texte - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

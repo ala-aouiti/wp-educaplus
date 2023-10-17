@@ -1,0 +1,8 @@
+2023-08-26T17:30:22+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" dans /home3/gryjtyhu/public_html/test-domain/wp-content/plugins/tutor/templates/single/lesson/content.php à la ligne 171
+
+2023-08-26T18:28:17+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file dans /home3/gryjtyhu/public_html/test-domain/wp-content/plugins/tutor/templates/global/attachments.php à la ligne 21
+
+2023-08-26T18:28:37+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file dans /home3/gryjtyhu/public_html/test-domain/wp-content/plugins/tutor/templates/global/attachments.php à la ligne 21
+
+2023-08-26T18:31:01+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file dans /home3/gryjtyhu/public_html/test-domain/wp-content/plugins/tutor/templates/global/attachments.php à la ligne 21
+
