@@ -94,13 +94,16 @@ define( 'AS3CF_SETTINGS', serialize( array(
  *
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-if ( ! defined( 'WP_DEBUG' ) ) {
-	define( 'WP_DEBUG', false );
-}
-
-/* That's all, stop editing! Happy publishing. */
-
-/** Absolute path to the WordPress directory. */
+/**
+ * This will log all errors notices and warnings to a file called debug.log in
+ * wp-content (if Apache does not have write permission, you may need to create
+ * the file first and set the appropriate permissions (i.e. use 666) ) 
+ */
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', false);
+@ini_set('display_errors',0);
+/** Absolute path to the WordPress d*/
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
 }
